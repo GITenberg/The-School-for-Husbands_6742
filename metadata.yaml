@@ -1,0 +1,35 @@
+_repo: The-School-for-Husbands_6742
+_version: 0.0.1
+alternative_title: L'ecole des maris. English
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    - Molière, Jean Baptiste Poquelin de
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Molière, 1622-1673 -- Translations into English'
+- !lcsh 'Comedies'
+- !lcc 'PQ'
+- !lcsh 'French drama -- 17th century -- Translations into English'
+- GITenberg
+title: The School for Husbands
+url: http://www.gutenberg.org/ebooks/6742
