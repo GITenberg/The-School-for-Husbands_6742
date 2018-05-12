@@ -1,6 +1,9 @@
 _repo: The-School-for-Husbands_6742
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: L'ecole des maris. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6742#The-School-for-Husbands
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
